@@ -1,5 +1,5 @@
 body { background-color: #f7f7f7;
-        font-family: "Arial", sans-serif;
+        font-family: "Merriweather", sans-serif;
         color: #333333;
         margin: 0;
         padding: 0; }
@@ -28,3 +28,8 @@ footer { background-color: #e8e8e8;
          padding: 10px;
          text-align: center;
          font-size: 14px; }
+
+
+.frame {border: 2px solid beige; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); padding: 10px;}
+.container {display: flex; justify-content: space-between;}
+.inspiration {margin-right: 400px;}
